@@ -30,8 +30,10 @@ For full version of dataset (~5GB), download from BAIDU cloud, link:<br />
 ##### *Gauthier, I., & Tarr, M. J. (1997). Becoming a “Greeble” expert: Exploring mechanisms for face recognition. Vision research, 37(12), 1673-1682.*
 ##### *https://wiki.cnbc.cmu.edu/Novel_Objects.*
 <br />
+
 #### This is a ongoing project in Prof. Liujia lab
 ##### *https://www.tsinghua.edu.cn/xlxxzh/*
 <br />
+
 bo <br />
 2021-01-22
