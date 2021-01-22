@@ -2,12 +2,15 @@
 
 Dataset and features:
 
-There are 2072 Greeble-like images, each of them has two features: Toogit (T) and Vacso (V), which varies from 1 to 4 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [2,2] 
+There are 2072 Greeble-like images, each of them has two features: Toogit (T) and Vacso (V), which varies from 1 to 4 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [2,2].
 
 The Greebles were categorized into two 'families': Family_1 & Family_2 depending on the line orientation on the map that the point locates.
 Family_1: 0°，60°，120°，180°，240°，300°
 Family_2：30°，90°，150°，210°，270°，330°
 
+For the number of greebles, there are on average 173 greebles for each of 12 orientations, in details:
+Family_1: 0°(201)，60°(116)，120°(116)，180°(201)，240°(116)，300°(116)
+Family_2：30°(201)，90°(201)，150°(201)，210°(201)，270°(201)，330°(201)
 
 Purpose:
 
