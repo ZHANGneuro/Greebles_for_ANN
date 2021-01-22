@@ -20,18 +20,18 @@ For full version of dataset (~5GB), download from BAIDU cloud, link:<br />
 链接: https://pan.baidu.com/s/190CJP9TpJkJUErA3vYK0zg  <br />
 密码: 97dk<br />
 --来自百度网盘超级会员V4的分享
-
+<br />
 
 
 ![alt tag](https://github.com/ZHANGneuro/Greebles_for_ANN/blob/master/Greebles_for_ANN/illustrator_figure-01.png)
-<br /><br />
+<br />
 
-### The stimuli were modified based on the original paper and shared materials below 
+#### The stimuli were modified based on the original paper and shared materials below 
 ##### *Gauthier, I., & Tarr, M. J. (1997). Becoming a “Greeble” expert: Exploring mechanisms for face recognition. Vision research, 37(12), 1673-1682.*
 ##### *https://wiki.cnbc.cmu.edu/Novel_Objects.*
-<br /><br />
-### This is a ongoing project in Prof. Liujia lab
+<br />
+#### This is a ongoing project in Prof. Liujia lab
 ##### *https://www.tsinghua.edu.cn/xlxxzh/*
-
+<br />
 bo <br />
 2021-01-22
