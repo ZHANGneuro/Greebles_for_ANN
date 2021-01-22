@@ -10,7 +10,11 @@ Family_2：`30°`，`90°`，`150°`，`210°`，`270°`，`330°` <br />
 For the number of greebles, there are on average 173 greebles for each of 12 orientations, in details: <br />
 Family_1: 0°(`201`)，60°(`116`)，120°(`116`)，180°(`201`)，240°(`116`)，300°(`116`) <br />
 Family_2：30°(`201`)，90°(`201`)，150°(`201`)，210°(`201`)，270°(`201`)，330°(`201`) <br />
-The variation in number of stimuli is caused by multiple factors (boundary of feature length, step size in feature length, and length of line).
+The variation in number of stimuli is caused by multiple factors (boundary of feature length, step size in feature length, and length of line).<br />
+
+The greeble file was named as "family"(align or misalign) + "orientation" (30° 60° etc.)+ "unit of length in x-axis" + "unit of length in y-axis"
+
+
 
 ### -Goal
 Training ANN to recognize the family (Family_1 or Family_2) given a specific greeble.
