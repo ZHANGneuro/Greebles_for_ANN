@@ -1,6 +1,17 @@
 # Greebles_for_ANN
 
-There are 2072 Greeble-like images for ANN training purpose.
+Dataset and features:
+
+There are 2072 Greeble-like images, each of them has two features: Toogit (T) and Vacso (V), which varies from 1 to 4 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [2,2] 
+
+The Greebles were categorized into two 'families': Family_1 & Family_2 depending on the line orientation on the map that the point locates.
+Family_1: 0°，60°，120°，180°，240°，300°
+Family_2：30°，90°，150°，210°，270°，330°
+
+
+Purpose:
+
+for ANN training purpose
 
 with 'Toogit' and 'Vacso' change from 1 to 4 units in length
 
