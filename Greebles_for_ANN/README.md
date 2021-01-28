@@ -1,18 +1,25 @@
 # Greebles_for_ANN
 
+```diff
+! the stimuli were updated in 28th Jan 2021
+```
+
+
 ### -Dataset and features:
-There are 2072 Greeble-like images, each of them has two features: `Toogit (T)` and `Vacso (V)`, which varies from 1 to 4 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [2,2]. <br />
+There are 2072 Greeble-like images, each of them has two features: `Toogit (T)` and `Vacso (V)`, which varies from 1 to 5 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [3,3]. <br />
  <br />
+ 
 The Greebles were categorized into two 'families': `Family_1` & `Family_2` depending on the line orientation on the map that the point locates. <br /> <br />
 Family_1: `0°`，`60°`，`120°`，`180°`，`240°`，`300°` <br />
 Family_2：`30°`，`90°`，`150°`，`210°`，`270°`，`330°` <br />
  <br />
-For the number of greebles, there are on average 173 greebles for each of 12 orientations, in details: <br />
-Family_1: 0°(`201`)，60°(`116`)，120°(`116`)，180°(`201`)，240°(`116`)，300°(`116`) <br />
-Family_2：30°(`201`)，90°(`201`)，150°(`201`)，210°(`201`)，270°(`201`)，330°(`201`) <br />
-The variation in number of stimuli is caused by multiple factors (boundary of feature length, step size in feature length, and length of line).<br />
+ 
+ ```diff
+! For the number of greebles, there are on average 251 greebles for each of 12 orientations with identified step size.<br />
 
-The greeble file was named as "family"(align or misalign) + "orientation" (30° 60° etc.)+ "unit of length in x-axis" + "unit of length in y-axis"
+! The greeble file was named as family-alignment (align or misalign)-ori-angle(0、30\ etc.)-xaxis-unit of length-yaxis-unit of length <br />
+
+```
 
 
 
