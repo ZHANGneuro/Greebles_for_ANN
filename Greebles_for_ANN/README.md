@@ -1,12 +1,12 @@
 # Greebles_for_ANN
 
 ```diff
-! the stimuli were updated in 28th Jan 2021
+! the stimuli were updated in 30th Jan 2021
 ```
 
 
 ### -Dataset and features:
-There are 2072 Greeble-like images, each of them has two features: `Toogit (T)` and `Vacso (V)`, which varies from 1 to 5 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [3,3]. <br />
+There are 2160 Greeble-like images, each of them has two features: `Toogit (T)` and `Vacso (V)`, which varies from 1 to 5 unit of length. The ratio of T & V (i.e. T/V) was represented by a point on sunbrust map with a center point defined at [3,3]. <br />
  <br />
  
 The Greebles were categorized into two 'families': `Family_1` & `Family_2` depending on the line orientation on the map that the point locates. <br /> <br />
@@ -15,9 +15,9 @@ Family_2：`30°`，`90°`，`150°`，`210°`，`270°`，`330°` <br />
  <br />
  
  ```diff
-! For the number of greebles, there are on average 251 greebles for each of 12 orientations with identified step size.<br />
+! For the number of greebles, there are on average 180 greebles for each of 12 orientations with identified step size on sunbrust map.<br />
 
-! The greeble file was named as family-alignment (align or misalign)-ori-angle(0、30\ etc.)-xaxis-unit of length-yaxis-unit of length <br />
+! The greeble file was named as family-(alignment)-ori-(angle)-xaxis-(ratio of change in unit of length)-yaxis-(ratio of change in unit of length)-md (movement distance), the movement distance (md=[1,2,3]) is the distance between the point on sunbrust map and the baseline greeble (coordinate 3,3), md=3 is farest, md=1 is nearest, only md=2 & 3 were used<br />
 
 ```
 
