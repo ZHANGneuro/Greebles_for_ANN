@@ -1,7 +1,7 @@
 # Greebles_for_ANN
 
 ```diff
-! the stimuli were updated in 30th Jan 2021
+! the stimuli were updated in 31th Jan 2021
 ```
 
 
@@ -18,7 +18,6 @@ Family_2：`30°`，`90°`，`150°`，`210°`，`270°`，`330°` <br />
 For the number of greebles, there are on average 271 greebles for each of 12 orientations with identified step size on sunbrust map.<br />
 
 The greeble file was named as family-(alignment)-ori-(angle)-xaxis-(ratio of change in unit of length)-yaxis-(ratio of change in unit of length)-md (movement distance), the movement distance (md=[1,2,3]) is the distance between the point on sunbrust map and the baseline greeble (coordinate 3,3), md=3 is farest, md=1 is nearest, only md=2 & 3 were used<br />
-
 ```
 
 
